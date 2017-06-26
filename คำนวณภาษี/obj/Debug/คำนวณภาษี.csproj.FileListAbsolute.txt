@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\คำนวณภาษี\คำนวณภาษี\bin\Debug\คำนวณภาษี.exe.config
+c:\users\user\documents\visual studio 2015\Projects\คำนวณภาษี\คำนวณภาษี\bin\Debug\คำนวณภาษี.exe
+c:\users\user\documents\visual studio 2015\Projects\คำนวณภาษี\คำนวณภาษี\bin\Debug\คำนวณภาษี.pdb
+c:\users\user\documents\visual studio 2015\Projects\คำนวณภาษี\คำนวณภาษี\obj\Debug\คำนวณภาษี.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\คำนวณภาษี\คำนวณภาษี\obj\Debug\คำนวณภาษี.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\คำนวณภาษี\คำนวณภาษี\obj\Debug\คำนวณภาษี.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\คำนวณภาษี\คำนวณภาษี\obj\Debug\คำนวณภาษี.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\คำนวณภาษี\คำนวณภาษี\obj\Debug\คำนวณภาษี.exe
+c:\users\user\documents\visual studio 2015\Projects\คำนวณภาษี\คำนวณภาษี\obj\Debug\คำนวณภาษี.pdb
